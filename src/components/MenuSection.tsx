@@ -60,7 +60,7 @@ const MenuSection = () => {
           </p>
 
           <a
-  href="https://lebaycafe.com.au"
+  href="https://www.canva.com/design/DAGs_zRytEM/p3axNhb1r11-vmmwUcj_Iw/view?utm_content=DAGs_zRytEM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce13cbc78c"
   target="_blank"
   rel="noopener noreferrer"
 >
