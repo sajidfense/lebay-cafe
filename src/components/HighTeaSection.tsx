@@ -42,8 +42,8 @@ const HighTeaSection = () => {
     },
     {
       icon: Armchair,
-      title: "Bay-Side Seating",
-      description: "Choose indoor or outdoor seating with beautiful bay views",
+      title: "Indoor & Outdoor Seating",
+      description: "Choose indoor or outdoor seating with a beautiful atmosphere ",
     },
     {
       icon: Camera,
