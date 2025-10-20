@@ -55,8 +55,8 @@ const MenuSection = () => {
           </h2>
 
           <p className="text-sm md:text-base mb-8 leading-relaxed font-sans opacity-90">
-            House-baked pastries & cakes • Gourmet breakfast & lunch • Healthy, seasonal dishes • 
-            Premium espresso coffee expertly brewed • Smoothies, juices & more
+            Grab a pastry and coffee before your movie at the cinemas!<br/>• House-baked pastries & cakes<br/>• Gourmet breakfast & lunch <br/>• Healthy, seasonal dishes<br/>• 
+            Premium espresso coffee expertly brewed<br/>• Smoothies, juices & more<br/>
           </p>
 
           <a

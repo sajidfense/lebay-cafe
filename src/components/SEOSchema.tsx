@@ -12,7 +12,7 @@ const SEOSchema = () => {
       "description": "Family-owned café in Wynnum serving premium coffee, house-baked pastries, gourmet breakfast & lunch, and elegant High Tea experiences.",
       "url": "https://lebaycafe.com.au/",
       "telephone": "+61493848179",
-      "email": "hello@lebaycafe.com.au",
+      "email": "info@lebaycafe.com.au",
       "priceRange": "$$",
       "servesCuisine": ["Café", "Australian", "Breakfast", "Brunch"],
       "acceptsReservations": true,
@@ -104,7 +104,7 @@ const SEOSchema = () => {
         "@type": "ContactPoint",
         "telephone": "+61493848179",
         "contactType": "Customer Service",
-        "email": "hello@lebaycafe.com.au",
+        "email": "info@lebaycafe.com.au",
         "areaServed": "AU",
         "availableLanguage": "English"
       }

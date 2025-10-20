@@ -22,7 +22,7 @@ const Footer = () => {
             <div className="space-y-2 text-sm text-primary-foreground/80">
               <p>90 Berrima Street</p>
               <p>Wynnum QLD</p>
-              <p className="mt-4">hello@lebaycafe.com.au</p>
+              <p className="mt-4">info@lebaycafe.com.au</p>
               <p>
                 <a href="tel:+61493848179" className="hover:text-primary-foreground transition-colors">
                   +61 493 848 179
